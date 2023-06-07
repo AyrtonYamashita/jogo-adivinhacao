@@ -1,9 +1,9 @@
 <h1 align="center"><b>JOGO DA ADIVINHAÇÃO</b></h1>
+<p>
+O jogo da adivinhação conhecido popularmente por "jogo da forca" consiste em a maquina escolher uma palavra aleatória do seu banco de dados e o usuário precisa acertar a palavra escolhida.
 
-    O jogo da adivinhação conhecido popularmente por "jogo da forca" consiste em a maquina escolher uma palavra aleatória do seu banco de dados e o usuário precisa acertar a palavra escolhida.
-
-    O usuário contém 5 vidas que só são gastas quando o usuário advivinha uma letra que não está na palavra escolhida ou quando o usuário repete a mesma palavra já adivinhada.
-
+O usuário contém 5 vidas que só são gastas quando o usuário advivinha uma letra que não está na palavra escolhida ou quando o usuário repete a mesma palavra já adivinhada.
+</p>
 <hr>
 <h2 align="center"><b>FUNCIONAMENTO PRÁTICO</b></h2>
 <p>
